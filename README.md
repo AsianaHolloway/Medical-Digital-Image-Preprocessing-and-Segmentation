@@ -1,7 +1,7 @@
 # Medical-Digital-Image-Preprocessing-and-Segmentation
 Exploring fundamental digital image preprocessing and segmentation techniques in the context of medical imaging.
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AsianaHolloway/Medical-Digital-Image-Preprocessing-and-Segmentation/blob/main/code/notebooks/Medical_Image_Preprocessing_Segmentation.ipynb)
+[![Open In Colab](https://colab.research.google.com/drive/1OolAHUd9VIigYKEP5MUyQTczPJSswivk?usp=sharing)
 
 ## 🔎 Overview
 
