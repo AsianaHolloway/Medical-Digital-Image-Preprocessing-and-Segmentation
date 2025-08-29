@@ -21,7 +21,7 @@ This project demonstrates key preprocessing and segmentation techniques applied 
 * Images show strong potential for AI model training.
 
 <p align="center">
-  <img src="visuals/figures/before_after_segmentation.png" width="600"/>
+  <img src="visuals/figures/resultsimages.png" width="800"/>
 </p>
 
 ## 🌍 Real-World Applications
