@@ -30,29 +30,6 @@ This project demonstrates key preprocessing and segmentation techniques applied 
 * **Computer-aided diagnosis** in radiology
 * **Clinical decision support** for faster, more accurate assessments
 
-## 📁 Repository Structure
-
-```
-code/         # Jupyter notebooks and requirements
-reports/      # project report, results
-visuals/      # figures, workflow diagrams
-data/         # data placeholder (not included)
-```
-
-## 🚀 Quickstart
-
-```bash
-# Clone repo
-git clone https://github.com/AsianaHolloway/Medical-Digital-Image-Preprocessing-and-Segmentation.git
-cd Medical-Digital-Image-Preprocessing-and-Segmentation
-
-# Setup environment
-python -m venv .venv && source .venv/bin/activate
-pip install -r code/requirements.txt
-
-# Open notebook
-jupyter notebook code/notebooks/Medical_Image_Preprocessing_Segmentation.ipynb
-```
 
 ## 📚 Requirements
 
